@@ -3,7 +3,7 @@ import { useEffect, useRef } from "react";
 import { Container } from "@mui/system";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
-import FacebookIcon from "@mui/icons-material/Facebook";
+import PictureAsPdfIcon from "@mui/icons-material/PictureAsPdf";
 import { Button } from "@mui/material";
 
 export default function Profile() {
@@ -76,11 +76,11 @@ export default function Profile() {
               <Button
                 style={{ backgroundColor: "#1e293b" }}
                 variant="contained"
-                startIcon={<FacebookIcon />}
+                startIcon={<PictureAsPdfIcon />}
                 target="_blank"
-                href="https://www.facebook.com/poomsak.kaewsee/"
+                href="https://drive.google.com/file/d/1uSKyDHyyng_0v-drIEkGul1hb-EChPnL/view?usp=sharing"
               >
-                Facebook
+                Resume
               </Button>
             </div>
           </div>
