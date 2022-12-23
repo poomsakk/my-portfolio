@@ -78,7 +78,7 @@ export default function Profile() {
                 variant="contained"
                 startIcon={<PictureAsPdfIcon />}
                 target="_blank"
-                href="https://drive.google.com/file/d/1TKWsJ49HJ_VCLQD-MogNZZy9G0sSABOl/view?usp=sharing"
+                href="https://drive.google.com/file/d/1OX4ak6cuKbkPeoweQxX017NRilzUT-52/view?usp=sharing"
               >
                 Resume
               </Button>
