@@ -69,7 +69,7 @@ export default function Profile() {
                 variant="contained"
                 startIcon={<LinkedInIcon />}
                 target="_blank"
-                href="https://www.linkedin.com/in/poomsak-kaewsee-385572254/"
+                href="https://linkedin.com/in/poomsak"
               >
                 LinkedIn
               </Button>
@@ -78,7 +78,7 @@ export default function Profile() {
                 variant="contained"
                 startIcon={<PictureAsPdfIcon />}
                 target="_blank"
-                href="https://drive.google.com/file/d/1OX4ak6cuKbkPeoweQxX017NRilzUT-52/view?usp=sharing"
+                href="https://drive.google.com/file/d/1_hSU_vZuEM800B9Rxp1Brpk21xKelqiZ/view?usp=sharing"
               >
                 Resume
               </Button>
