@@ -73,7 +73,7 @@ export default function Profile() {
               >
                 LinkedIn
               </Button>
-              <Button
+              {/* <Button
                 style={{ backgroundColor: "#1e293b" }}
                 variant="contained"
                 startIcon={<PictureAsPdfIcon />}
@@ -81,7 +81,7 @@ export default function Profile() {
                 href="https://drive.google.com/file/d/1_hSU_vZuEM800B9Rxp1Brpk21xKelqiZ/view?usp=sharing"
               >
                 Resume
-              </Button>
+              </Button> */}
             </div>
           </div>
         </div>
