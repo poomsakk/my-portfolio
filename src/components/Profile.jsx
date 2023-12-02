@@ -3,7 +3,6 @@ import { useEffect, useRef } from "react";
 import { Container } from "@mui/system";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
-import PictureAsPdfIcon from "@mui/icons-material/PictureAsPdf";
 import { Button } from "@mui/material";
 
 export default function Profile() {
